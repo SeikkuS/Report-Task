@@ -64,7 +64,19 @@ h2 komentaja Pingviini
  
  tässä komennossa etsitään tiedoston sisältä kaikki rivit, joissa on "10".
  
-        
+       grep -c "0" timezone
+       
+ tässä komennosssa lasketaan kuinka monta kertaa numero 0 esiintyy timezone -tiedostossa.
+ 
+ ![kuva](https://user-images.githubusercontent.com/105205141/213927765-7076c140-1139-4e2d-99d7-8398464eb426.png)
+ 
+       
+       grep -l "0" *
+       
+  tässä komennossa listataan kaikki kyseisen hakemiston tiedostot, jotka sisältävät "0". 
+  
+  ![kuva](https://user-images.githubusercontent.com/105205141/213927996-587601b6-9ed3-4f43-8df4-8cf502ce2ce9.png)
+
 
 
 
