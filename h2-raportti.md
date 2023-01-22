@@ -54,7 +54,18 @@ h2 komentaja Pingviini
        
  ![kuva](https://user-images.githubusercontent.com/105205141/213910671-b6a2306f-8203-401f-9fdc-4744eecd2730.png)
  
+ 6. Kokeilin grep komentoja /var/log/ hakemiston log-tiedostoihin, ja sain vastaukseksi "permission denied", kokeilin sitten toisesta hakemistosta: 
+
+        cd /etc/
+        ls 
+        grep "10" passwd
+        
+ ![kuva](https://user-images.githubusercontent.com/105205141/213910829-f98be599-657c-4df1-9026-abfe414b721d.png)
  
+ tässä komennossa etsitään tiedoston sisältä kaikki rivit, joissa on "10".
+ 
+        
+
 
 
 
