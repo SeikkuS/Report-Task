@@ -78,7 +78,7 @@ h2 komentaja Pingviini
   ![kuva](https://user-images.githubusercontent.com/105205141/213927996-587601b6-9ed3-4f43-8df4-8cf502ce2ce9.png)
 
 
-
+harjoituksen aikana ei ilmennyt ongelmia latauksien tai testien kanssa. 
 
 
 
